@@ -22,5 +22,4 @@ _testmain.go
 *.exe
 *.test
 
-assets/jsconfig.json
 .DS_Store
