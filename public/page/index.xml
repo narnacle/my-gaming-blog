@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on How to 100%</title>
-        <link>https://howto100.guide/page/</link>
+        <link>https://www.howto100.guide/page/</link>
         <description>Recent content in Pages on How to 100%</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Narnacle</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://howto100.guide/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.howto100.guide/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://howto100.guide/archives/</link>
+        <link>https://www.howto100.guide/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://howto100.guide/archives/</guid>
+        <guid>https://www.howto100.guide/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://howto100.guide/about/</link>
+        <link>https://www.howto100.guide/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://howto100.guide/about/</guid>
+        <guid>https://www.howto100.guide/about/</guid>
         <description>&lt;h3 id=&#34;hi-there-&#34;&gt;Hi there 👋
 &lt;/h3&gt;&lt;p&gt;I’m &lt;strong&gt;Narnacle&lt;/strong&gt;. I created this blog as free alternative to my &lt;a class=&#34;link&#34; href=&#34;https://howto100.medium.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;medium&lt;/a&gt;&lt;/p&gt;
@@ -45,18 +45,18 @@
         </item>
         <item>
         <title>Links</title>
-        <link>https://howto100.guide/links/</link>
+        <link>https://www.howto100.guide/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://howto100.guide/links/</guid>
+        <guid>https://www.howto100.guide/links/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://howto100.guide/search/</link>
+        <link>https://www.howto100.guide/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://howto100.guide/search/</guid>
+        <guid>https://www.howto100.guide/search/</guid>
         <description></description>
         </item>
         

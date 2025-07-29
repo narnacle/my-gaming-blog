@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://howto100.guide/zh-cn/</loc>
+    <loc>https://www.howto100.guide/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/"
+                href="https://www.howto100.guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/"
+                href="https://www.howto100.guide/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/"
+                href="https://www.howto100.guide/zh-cn/"
                 />
   </url><url>
-    <loc>https://howto100.guide/zh-cn/categories/</loc>
+    <loc>https://www.howto100.guide/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/categories/"
+                href="https://www.howto100.guide/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/categories/"
+                href="https://www.howto100.guide/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/categories/"
+                href="https://www.howto100.guide/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://howto100.guide/zh-cn/page/</loc>
+    <loc>https://www.howto100.guide/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/page/"
+                href="https://www.howto100.guide/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/page/"
+                href="https://www.howto100.guide/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://howto100.guide/zh-cn/tags/</loc>
+    <loc>https://www.howto100.guide/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/tags/"
+                href="https://www.howto100.guide/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/tags/"
+                href="https://www.howto100.guide/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/tags/"
+                href="https://www.howto100.guide/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://howto100.guide/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://www.howto100.guide/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/about/"
+                href="https://www.howto100.guide/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://www.howto100.guide/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

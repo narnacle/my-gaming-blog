@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://howto100.guide/ar/categories/</loc>
+    <loc>https://www.howto100.guide/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/categories/"
+                href="https://www.howto100.guide/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/categories/"
+                href="https://www.howto100.guide/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/categories/"
+                href="https://www.howto100.guide/ar/categories/"
                 />
   </url><url>
-    <loc>https://howto100.guide/ar/tags/</loc>
+    <loc>https://www.howto100.guide/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/tags/"
+                href="https://www.howto100.guide/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/tags/"
+                href="https://www.howto100.guide/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/tags/"
+                href="https://www.howto100.guide/ar/tags/"
                 />
   </url><url>
-    <loc>https://howto100.guide/ar/</loc>
+    <loc>https://www.howto100.guide/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/"
+                href="https://www.howto100.guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/"
+                href="https://www.howto100.guide/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/"
+                href="https://www.howto100.guide/ar/"
                 />
   </url>
 </urlset>

@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://howto100.guide/</loc>
+    <loc>https://www.howto100.guide/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/"
+                href="https://www.howto100.guide/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/"
+                href="https://www.howto100.guide/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/"
+                href="https://www.howto100.guide/"
                 />
   </url><url>
-    <loc>https://howto100.guide/tags/100-guide/</loc>
+    <loc>https://www.howto100.guide/tags/100-guide/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/categories/</loc>
+    <loc>https://www.howto100.guide/categories/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/categories/"
+                href="https://www.howto100.guide/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/categories/"
+                href="https://www.howto100.guide/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/categories/"
+                href="https://www.howto100.guide/categories/"
                 />
   </url><url>
-    <loc>https://howto100.guide/categories/how-to-100/</loc>
+    <loc>https://www.howto100.guide/categories/how-to-100/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/p/how-to-100-no-mans-sky/</loc>
+    <loc>https://www.howto100.guide/p/how-to-100-no-mans-sky/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/tags/no-mans-sky/</loc>
+    <loc>https://www.howto100.guide/tags/no-mans-sky/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/post/</loc>
+    <loc>https://www.howto100.guide/post/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/categories/survival/</loc>
+    <loc>https://www.howto100.guide/categories/survival/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/tags/</loc>
+    <loc>https://www.howto100.guide/tags/</loc>
     <lastmod>2025-07-29T10:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/tags/"
+                href="https://www.howto100.guide/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://howto100.guide/ar/tags/"
+                href="https://www.howto100.guide/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/tags/"
+                href="https://www.howto100.guide/tags/"
                 />
   </url><url>
-    <loc>https://howto100.guide/archives/</loc>
+    <loc>https://www.howto100.guide/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://howto100.guide/page/</loc>
+    <loc>https://www.howto100.guide/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/page/"
+                href="https://www.howto100.guide/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/page/"
+                href="https://www.howto100.guide/page/"
                 />
   </url><url>
-    <loc>https://howto100.guide/about/</loc>
+    <loc>https://www.howto100.guide/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://howto100.guide/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://www.howto100.guide/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://howto100.guide/about/"
+                href="https://www.howto100.guide/about/"
                 />
   </url><url>
-    <loc>https://howto100.guide/links/</loc>
+    <loc>https://www.howto100.guide/links/</loc>
   </url><url>
-    <loc>https://howto100.guide/search/</loc>
+    <loc>https://www.howto100.guide/search/</loc>
   </url>
 </urlset>
